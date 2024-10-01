@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+   background: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);;
   font-family: "Roboto", sans-serif;
 }
 
@@ -31,7 +31,7 @@ header {
 }
 
 .search-form-button {
-  background: #885df1;
+  background:#f10d19;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
